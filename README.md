@@ -12,7 +12,3 @@ g++ main.cpp func.o ThreadPool.o -o main -lpthread -g
 changke@King:~/网络编程/WEB_PICTURE/webserver$ ./main 127.0.0.1 2345
 
 ```
-
-
-实现效果:
-<a href="https://blog.csdn.net/qq_41681241/article/details/86907477">喳喳班的csdn</a>
